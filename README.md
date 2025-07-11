@@ -85,7 +85,7 @@ All plots and verification included in `/LTspice`.
 
 ## 📷 Preview
 
-![3D PCB View](Altium/3DView.png)
+![3D PCB View](3DviewPCB.png)
 
 ---
 
