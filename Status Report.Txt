@@ -1,0 +1,38 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ACTIVE_FILTERS.PrjPcb]
+   Generated File[PCB_ActiveFilters_Legend_Top.gbr]
+   Generated File[PCB_ActiveFilters_Paste_Top.gbr]
+   Generated File[PCB_ActiveFilters_Soldermask_Top.gbr]
+   Generated File[PCB_ActiveFilters_Copper_Signal_Top.gbr]
+   Generated File[PCB_ActiveFilters_Copper_Signal_Bot.gbr]
+   Generated File[PCB_ActiveFilters_Soldermask_Bot.gbr]
+   Generated File[PCB_ActiveFilters_Paste_Bot.gbr]
+   Generated File[PCB_ActiveFilters_Legend_Bot.gbr]
+   Generated File[PCB_ActiveFilters_Mechanical_1.gbr]
+   Generated File[PCB_ActiveFilters_Top_3D_Body.gbr]
+   Generated File[PCB_ActiveFilters_Top_Courtyard.gbr]
+   Generated File[PCB_ActiveFilters_Top_Assembly.gbr]
+   Generated File[PCB_ActiveFilters_Mechanical_13.gbr]
+   Generated File[PCB_ActiveFilters_Mechanical_15.gbr]
+   Generated File[PCB_ActiveFilters_Top_Component_Center.gbr]
+   Generated File[PCB_ActiveFilters_Bottom_Assembly.gbr]
+   Generated File[PCB_ActiveFilters_Bottom_Courtyard.gbr]
+   Generated File[PCB_ActiveFilters_Bottom_3D_Body.gbr]
+   Generated File[PCB_ActiveFilters_Bottom_Component_Center.gbr]
+   Generated File[PCB_ActiveFilters_Keep-out.gbr]
+   Generated File[PCB_ActiveFilters_Pads_Top.gbr]
+   Generated File[PCB_ActiveFilters_Pads_Bot.gbr]
+   Generated File[PCB_ActiveFilters_Other.gbr]
+   Generated File[PCB_ActiveFilters_Other_1.gbr]
+   Generated File[PCB_ActiveFilters_Drawing_1.gbr]
+   Generated File[PCB_ActiveFilters_Drillmap_1.gbr]
+   Generated File[PCB_ActiveFilters_Profile.gbr]
+   Generated File[PCB_ActiveFilters.EXTREP]
+   Generated File[PCB_ActiveFilters.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 01:42:28 On 12-07-2025
